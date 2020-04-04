@@ -13,6 +13,7 @@ html {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	font-family: 'Pacifico', cursive;
 }
 
 .button {
@@ -23,7 +24,6 @@ html {
 	text-align: center;
 	justify-content: center;
 	padding: 10px;
-	font-family: cursive;
 	font-size: 20px;
 	border: 2px solid white;
 	border-radius: 10px;
@@ -42,8 +42,6 @@ html {
 .love-you {
 	display: flex;
 	color: red;
-	font-family: cursive;
-	font-style: italic;
 	font-size: 15px;
 	background-image: url('./images/icons/icon-512x512.png');
 	background-size: contain;
