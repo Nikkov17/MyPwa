@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/images/icons/icon-128x128.png","bc28f5fa54b5cc461b148e3bc9799380"],["/images/icons/icon-144x144.png","b826cecb6452e150019ecb294f7fd756"],["/images/icons/icon-152x152.png","73a8053ca3ecd73e7190926d5757e617"],["/images/icons/icon-192x192.png","eb8cebe67dc98a8e0b6c26729c1fdd19"],["/images/icons/icon-384x384.png","e165d809a4446e44cdb0ce1c0c4676ea"],["/images/icons/icon-512x512.png","2d4cb0546f8746c45b6410d001e9362d"],["/images/icons/icon-72x72.png","1078b818336210d90fa7b2718b1a38b4"],["/images/icons/icon-96x96.png","25b10d2988551b2867f3b3e1b30cef0f"],["/index.html","c287bc8b69de1097fd291bc0880cea6d"],["/index.js","46ab939ee96f74dbc0f753911b7a421c"],["/style.css","9cfa8a129ff38049e8959a6d2df01a03"]];
+var precacheConfig = [["/images/icons/icon-128x128.png","957d34ac0415aa4b91be91bc0fe26a40"],["/images/icons/icon-144x144.png","426020603c491c08b7428f7698559e4a"],["/images/icons/icon-152x152.png","15c7e72d9a8f57373e280d7f5fc766c1"],["/images/icons/icon-192x192.png","606fc017ec8e23a62ec60203a07afab2"],["/images/icons/icon-384x384.png","52627f3d630e7c3b13870709457d5bc0"],["/images/icons/icon-512x512.png","9ab881aaf9cdf21e971c2231ff8818c4"],["/images/icons/icon-72x72.png","7793dc5f617f11bf661f5a20f98a1e18"],["/images/icons/icon-96x96.png","ce1708382854dd812fda4ef49717f82c"],["/index.html","c287bc8b69de1097fd291bc0880cea6d"],["/index.js","46ab939ee96f74dbc0f753911b7a421c"],["/style.css","ff0543ce91e142dad37c24c2cec4f649"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
