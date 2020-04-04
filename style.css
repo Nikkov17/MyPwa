@@ -1,0 +1,77 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+.body {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	margin:0;
+	padding:0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.button {
+	background-color: white;
+	color: white;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	padding: 10px;
+	font-family: cursive;
+	font-size: 20px;
+	border: 2px solid white;
+	border-radius: 10px;
+	position: relative;
+	animation: shining 1s ease-in-out infinite;
+}
+@keyframes shining {
+	50% {
+		border: 2px solid rgb(139, 187, 139);
+	}
+}
+.button:hover {
+	cursor: pointer;
+}
+
+.love-you {
+	display: flex;
+	color: black;
+	font-family: cursive;
+	font-size: 15px;
+	background-image: url('./images/icons/icon-512x512.png');
+	background-size: contain;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	padding: 5%;
+	padding-bottom: 7%;
+	opacity: 0;
+}
+.love-you:hover {
+	cursor: pointer;
+}
+.animate-love-you {
+	animation: scale 1.5s ease-in-out;
+	animation-fill-mode: forwards;
+}
+@keyframes scale {
+	100% {
+		opacity: 100;
+		transform: scale(3);
+	}
+}
+
+.hidden {
+	display: none;
+}
+
+pwa-update {
+	width: 20px;
+	height: 20px;
+	background-color: rebeccapurple;
+}
