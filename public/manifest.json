@@ -1,7 +1,7 @@
 {
   "name": "MyPWA",
   "short_name": "MyPWA",
-  "theme_color": "white",
+  "theme_color": "rgb(98, 132, 98)",
   "background_color": "rgb(139, 187, 139)",
   "display": "standalone",
   "start_url": "/index.html",
