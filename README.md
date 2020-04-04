@@ -1,1 +1,1 @@
-https://nikkov17.github.io/MyPwa/index.html
+https://nikkov17.github.io/MyPwa/
