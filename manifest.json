@@ -4,7 +4,6 @@
   "theme_color": "white",
   "background_color": "rgb(139, 187, 139)",
   "display": "standalone",
-  "Scope": "/MyPwa/",
   "start_url": "/index.html",
   "icons": [
     {
